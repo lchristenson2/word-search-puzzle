@@ -1,0 +1,102 @@
+Printing list of words:
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+NewHampshire
+NewJersey
+NewMexico
+NewYork
+NorthCarolina
+NorthDakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+RhodeIsland
+SouthCarolina
+SouthDakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+WestVirginia
+Wisconsin
+Wyoming
+
+Printing puzzle before search:
+W D B M J Q D B C J N Q P T I
+I R Z U X U Z E A O I O R T N
+M N Z P L R N H L Y L X H M D
+M Y E K A I D P I U L Y O W I
+A O A B A R K U F V I H L A A
+L O N M R X K I O J N A V R N
+A E P T A A R A R T O W A I A
+S U C Z A U S I N A I A L Z V
+K O T A O N R K I S S I A O N
+A H X S V K A I A E A I B N E
+U D S X N X C C D W G S A A V
+O I S D W L E J N J T X M H A
+M O X W T N H Q D X O Q A Q D
+R U U V G E O R G I A Q V D A
+V F L O R I D A L G L W O X N
+
+Word found: Alabama
+Word found: Alaska
+Word found: Arizona
+Word found: Arkansas
+Word found: California
+Word found: Florida
+Word found: Georgia
+Word found: Hawaii
+Word found: Illinois
+Word found: Indiana
+Word found: Kansas
+Word found: Maine
+Word found: Missouri
+Word found: Montana
+Word found: Nebraska
+Word found: Nevada
+
+Printing puzzle after search:
+W D B M J Q D B c J N Q P T i
+I R Z U X U Z e a O i O R T n
+M n Z P L R n H l Y l X H M d
+m Y e K a i D P i U l Y O W i
+a o A b a r K U f V i h L a a
+l O n m r X k i o J n a V r n
+a E P t A a r a r T o w a i a
+s U C Z a u s I n A i a l z V
+k O T A o n R k i s s i a o n
+a H X s V K a I a E a i b n e
+U D s X N X C C D W G s a a v
+O i S D W L E J N J T X m H a
+m O X W T N H Q D X O Q a Q d
+R U U V g e o r g i a Q V D a
+V f l o r i d a L G L W O X N
